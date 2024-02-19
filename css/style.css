@@ -1,5 +1,9 @@
 /* styly */
 
+p {
+    background-color: lightgoldenrodyellow;
+}
+
 h2 {
     color: red;
     padding: 40px;
